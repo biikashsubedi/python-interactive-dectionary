@@ -1,2 +1,2 @@
 # python-interactive-dectionary
-A english dictionary created using python. 
+A english dictionary created using python. which have suggestion feature with shortcut.
